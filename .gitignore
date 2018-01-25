@@ -1,0 +1,4 @@
+.terraform
+state.tfvars
+settings.json
+*.ova

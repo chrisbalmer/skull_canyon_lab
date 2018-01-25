@@ -1,0 +1,15 @@
+{
+    "ESXI": {
+        "ESXI_HOST": "",
+        "ESXI_USER": "",
+        "ESXI_PASS": "",
+        "ESXI_DS": "",
+        "ESXI_PG": "",
+        "ESXI_ANNOTATION": "",
+        "ESXI_SWITCH": "",
+        "ESXI_LICENSE": ""
+    },
+    "VM_TEMPLATES": [
+        "centos7"
+    ]
+}
